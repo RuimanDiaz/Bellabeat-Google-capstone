@@ -331,8 +331,7 @@ par(mar=c(5,5,5,5))             #sets the margins,the bigger the number the bigg
 pie(slices_2,labels = percent ,hole=0,main="Activity in minutes") 
 ```
 
-<https://github.com/RuimanDiaz/Bellabeat-Google-capstone/blob/6753d4301b5810c2428d804135a862334bd4e829/Pie%20activity.png>
-
+< img src ="Pie activity.png">
 In this pie we are looking at the proportion of the activity during the day
 on average,
 
