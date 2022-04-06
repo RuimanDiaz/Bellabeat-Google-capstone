@@ -352,7 +352,7 @@ df2<-daily_activity3 %>%
 ggplot(df2,aes(x=reorder(day_of_the_week,-count_name)))+geom_bar(colour="black",fill="darkorange3")+labs(x="",y="Count")+theme(legend.position = "none")
 ```
 
-![](Bellabeat-markdown2_files/figure-gfm/unnamed-chunk-17-1.png)<!-- -->
+![](https://github.com/RuimanDiaz/Bellabeat-Google-capstone/blob/main/weekdays.png)<!-- -->
 
 <br> <br>
 
@@ -364,7 +364,7 @@ Most of the steps happen in the morning between 7 am to 12 pm.
 ggplot(hourlysteps,aes(x=StepTotal,y=Hour))+geom_col(fill="goldenrod3")
 ```
 
-![](Bellabeat-markdown2_files/figure-gfm/unnamed-chunk-18-1.png)<!-- -->
+![](https://github.com/RuimanDiaz/Bellabeat-Google-capstone/blob/main/time.png)<!-- -->
 
 ### Act
 
