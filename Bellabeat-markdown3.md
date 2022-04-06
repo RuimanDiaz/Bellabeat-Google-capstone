@@ -353,7 +353,7 @@ df2<-daily_activity3 %>%
 ggplot(df2,aes(x=reorder(day_of_the_week,-count_name)))+geom_bar(colour="black",fill="darkorange3")+labs(x="",y="Count")+theme(legend.position = "none")
 ```
 
-![](Bellabeat-markdown3_files/figure-gfm/unnamed-chunk-17-1.png)<!-- -->
+![](Bellabeat-markdown3_files/time.png)<!-- -->
 
 <br> <br>
 
